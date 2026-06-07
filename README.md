@@ -70,7 +70,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-<img width="1195" height="893" alt="image" src="https://github.com/user-attachments/assets/c8869897-2652-4e60-ad1b-9fcbcb5bed31" />
+<img width="1195" height="893" alt="image" src="https://github.com/user-attachments/assets/aa60e3e9-e497-4fcc-acac-4bdbcd876641" />
 
 
 
@@ -82,7 +82,8 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-<img width="1195" height="893" alt="image" src="https://github.com/user-attachments/assets/5fd8c051-8241-4e13-978a-1891dd1289a2" />
+<img width="1195" height="893" alt="image" src="https://github.com/user-attachments/assets/68cd29f7-e675-41e9-aaf5-d948f27737f6" />
+
 
 
 
@@ -125,7 +126,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-![Uploading image.png…]()
+<img width="1195" height="897" alt="image" src="https://github.com/user-attachments/assets/961f3b3e-944d-44fe-bd9a-5d84005c16cc" />
 
 
 
